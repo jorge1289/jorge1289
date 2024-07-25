@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋,=Jorge Nunez</a></h1>
+<h1 align="center">Hi 👋, Jorge Nunez</a></h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
 <a target="_blank" align="center">
