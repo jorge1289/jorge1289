@@ -6,7 +6,7 @@
 </a>
 
 ## Welcome to my GitHub!
- I am a recent graduate from the University of California, Berkeley, with a degree in Electrical Engineering and Computer Sciences. I am passionate about software engineering and creating technologies that help people life a better life.
+ I am a recent graduate from the University of California, Berkeley, with a degree in Electrical Engineering and Computer Sciences. I am passionate about software engineering and developing technologies that help people live a better life.
 
 - 🤝 I’m available for recruiting.
 
