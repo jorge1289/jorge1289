@@ -2,10 +2,6 @@
 Jorge Nunez</a></h1>
 <h3 align="center">A passionate Software Engineer &#127470;&#127475</h3>
 
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
-
 - 🤝 I’m available for recruiting.
 
 - 📫 How to reach me **jorge1289@berkeley.edu**
