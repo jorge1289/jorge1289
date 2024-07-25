@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
-Jorge Nunez</a></h1>
+<h1 align="center">Hi 👋,=Jorge Nunez</a></h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
 <a target="_blank" align="center">
@@ -22,9 +21,6 @@ Jorge Nunez</a></h1>
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/jorge1289">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-\
-	   <a style="margin-left: 10px;" target="_blank" href="https://dev.to/100rabhcsmc">
-					<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a>
       </div>
 
 </p>
