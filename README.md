@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **jorge1289@berkeley.edu**
 
-- 📄 Know about my experiences <a href="https://github.com/jorge1289/jorge1289/blob/main/Jorge_Nunez_Resume.pdf" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="https://github.com/jorge1289/jorge1289/blob/main/JorgeNunez_Resume.pdf" target="blank">Resume</a>
 <br/>
 <h3 align="center" > Connect with me 🤝 </h3>
 
