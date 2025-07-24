@@ -84,9 +84,3 @@
 </picture>
 
 ###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/jorge1289/count.svg?"  />
-</div>
-
-###
