@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left"><strong>Welcome to my GitHub</strong>!<br>I hold a bachelor's degree from the University of California, Berkeley, in Electrical Engineering and Computer Sciences. I'm an incoming Master's student at San Diego State University. I enjoy building projects that are naturally challenging and inherently innovative and creative.</p>
+<p align="left"><strong>Welcome to my GitHub</strong>!<br>I earned my B.S. in Electrical Engineering and Computer Sciences from the University of California, Berkeley, and I’m an incoming M.S. Computer Science student at San Diego State University. I enjoy building projects that are both technically challenging and creatively rewarding.</p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jorge1289&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
