@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left"><strong>Welcome to my GitHub</strong>!<br>I earned my B.S. in Electrical Engineering and Computer Sciences from the University of California, Berkeley, and I’m an incoming M.S. Computer Science student at San Diego State University. I enjoy building projects that are both technically challenging and creatively rewarding.</p>
+<p align="left"><strong>Welcome to my GitHub</strong>!<br>I earned my B.S. in Electrical Engineering and Computer Sciences from the University of California, Berkeley, and I’m currently an M.S. Computer Science student at San Diego State University. I enjoy building projects that are both technically challenging and creatively rewarding.</p>
 
 ###
 
